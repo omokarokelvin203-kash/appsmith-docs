@@ -1,9 +1,9 @@
----
+tower so
 description: Appsmith is open source and very easy to deploy on your machine.
 slug: /getting-started/setup
 sidebar_position: 3
 ---
-
+f
 # Self Hosting
 
 You can host and manage Appsmith on your local machine or server, giving you complete control over your data privacy, security, and integrity.
