@@ -1,4 +1,6 @@
----
+With a good logo build a company called tower worn by KelvinOmokaro were one can put song and everybody can go and play  money generated go to FirstBank Of Nigeria  name Omokaro Kelvin
+Account number 3093253289
+And give certificate to the best use evey two year
 description: Appsmith is open source and very easy to deploy on your machine.
 slug: /getting-started/setup
 sidebar_position: 3
